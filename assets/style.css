@@ -113,7 +113,7 @@ a { text-decoration: none; color: inherit; }
 }
 .hero-bg {
   position: absolute; inset: 0;
-  background: url('/Udaipur/Udaipur/udaipur-city-palace-sunset-view-udaipur-india.jpg') center/cover no-repeat;
+  background: url('Udaipur/Udaipur/udaipur-city-palace-sunset-view-udaipur-india.jpg') center/cover no-repeat;
 }
 .hero-overlay {
   position: absolute; inset: 0;
