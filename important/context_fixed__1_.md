@@ -665,7 +665,7 @@ And add the corresponding HTML panel with ids: `dd3`, `d3-time`, `d3-ampm`, `d3-
   <div class="container-full">
     <div class="footer-top">
       <div>
-        <div class="footer-brand-name"><a href="https://kaladwashotels.com/"><img src="/Udaipur/Udaipur/Kaladwas-Lal-Haveli-name.webp" alt="" srcset=""></a></div>
+        <div class="footer-brand-name"><a href="https://kaladwashotels.com/"><img src="Udaipur/Udaipur/Kaladwas-Lal-Haveli-name.webp" alt="" srcset=""></a></div>
         <!-- <div class="footer-brand-sub">A Heritage Boutique Hotel · Udaipur, Rajasthan</div> -->
         <p class="footer-about">A 300-year-old heritage haveli in the heart of Udaipur's Old City. Seven exquisitely designed themed rooms, traditional Mewari hospitality, and an authentic connection to Rajasthan's royal legacy.</p>
         <p class="footer-contact-item">📞 <a href="tel:+918302902727">+91-830 290 2727</a></p>
