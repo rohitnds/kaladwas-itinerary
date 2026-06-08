@@ -22,7 +22,7 @@ Copy this skeleton and save it as `your-page-name.html` in the same folder as
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&family=Raleway:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="assets/style.css">
   <!-- SLOT: Add page-specific CSS here only if needed -->
 </head>
 <body>
@@ -40,7 +40,7 @@ Copy this skeleton and save it as `your-page-name.html` in the same folder as
 
   <!-- PASTE FOOTER BLOCK HERE -->
 
-  <script src="main.js"></script>
+  <script src="assets/main.js"></script>
   <!-- SLOT: Add page-specific JS here only if needed -->
 </body>
 </html>
