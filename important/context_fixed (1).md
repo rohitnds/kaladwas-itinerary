@@ -140,7 +140,7 @@ Just add the class to the element — it will be invisible until it enters the v
 <header class="site-header">
   <nav class="nav-inner">
     <a href="https://kaladwashotels.com/" class="nav-logo">
-      <span>Kaladwas Lal Haveli<small>A Boutique Hotel in Udaipur</small></span>
+      <img src="Udaipur/Udaipur/Kaladwas-Lal-Haveli-name.webp" alt="Kaladwas Lal Haveli">
     </a>
     <ul class="nav-menu">
       <li><a href="https://kaladwashotels.com/">Home</a></li>

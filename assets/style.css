@@ -87,6 +87,10 @@ a { text-decoration: none; color: inherit; }
   color: #c8a96e;
   transition: color 0.25s;
 }
+.banner {
+  margin-top: 80px;
+  padding: 20px !important;
+}
 .nav-menu a:hover { color: var(--gold); }
 .nav-book {
   font-family: var(--font-sans);
@@ -786,7 +790,7 @@ a.footer-a:hover {
       position: relative; overflow: hidden;
     }
     .art-img img {
-      width: 100%; aspect-ratio: 3/2; object-fit: cover;
+      width: 100%; object-fit: cover;
       transition: transform 0.7s ease;
     }
     .art-card:hover .art-img img { transform: scale(1.06); }
